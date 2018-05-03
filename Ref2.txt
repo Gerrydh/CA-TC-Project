@@ -1,0 +1,3 @@
+[3]	https://www.systutorials.com/docs/linux/man/1-finger/
+[4]	https://linoxide.com/linux-command/linux-w-command/
+[5]	https://www.booleanworld.com/guide-linux-top-command/
