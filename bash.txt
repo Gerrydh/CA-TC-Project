@@ -1,0 +1,7 @@
+https://askubuntu.com/questions/972076/how-to-separate-command-output-to-individual-lines
+https://unix.stackexchange.com/questions/10421/output-from-ls-has-newlines-but-displays-on-a-single-line-why
+https://stackoverflow.com/questions/13482943/each-word-on-a-separate-line
+https://robots.thoughtbot.com/input-output-redirection-in-the-shell
+
+https://stackoverflow.com/questions/30175844/how-to-force-echo-to-print-items-on-separate-lines-in-unix
+
