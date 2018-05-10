@@ -6,3 +6,8 @@ https://robots.thoughtbot.com/input-output-redirection-in-the-shell
 https://stackoverflow.com/questions/30175844/how-to-force-echo-to-print-items-on-separate-lines-in-unix
 
 https://tecadmin.net/write-append-multiple-lines-to-file-linux/
+
+https://www.linuxquestions.org/questions/linux-software-2/echo-multiple-lines-of-text-312048/
+
+
+https://unix.stackexchange.com/questions/443021/bash-format-multiple-commands-to-separate-lines-in-redirected-txt-file
