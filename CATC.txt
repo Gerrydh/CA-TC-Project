@@ -1,3 +1,5 @@
 https://www.tecmint.com/echo-command-in-linux/
 
 http://linuxcommand.org/lc3_man_pages/pr1.html
+
+https://www.tecmint.com/display-command-output-or-file-contents-in-column-format/
