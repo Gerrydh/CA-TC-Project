@@ -3,3 +3,7 @@ https://www.tecmint.com/echo-command-in-linux/
 http://linuxcommand.org/lc3_man_pages/pr1.html
 
 https://www.tecmint.com/display-command-output-or-file-contents-in-column-format/
+
+https://www.thegeekstuff.com/2009/10/how-to-capture-unix-top-command-output-to-a-file-in-readable-format
+
+https://www.skorks.com/2009/09/using-bash-to-output-to-screen-and-file-at-the-same-time/
